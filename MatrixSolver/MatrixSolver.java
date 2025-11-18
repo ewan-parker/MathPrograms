@@ -1,4 +1,4 @@
-package mathAutomation;
+package MatrixSolver;
 
 import java.util.Scanner;
 
@@ -159,3 +159,4 @@ public class MatrixSolver {
 	}
 
 }
+
