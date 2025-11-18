@@ -1,0 +1,85 @@
+Example output 1 of MatriceMultiplication:
+
+Enter number of rows for A: 2
+Enter number of columns for A: 2
+Enter number of rows for B: 2
+Enter number of columns for B: 1
+ 
+Enter elements row by row for A, separated by spaces.
+
+Row 1: 1 2
+Row 2: 3 4
+
+Enter elements row by row for B, separated by spaces.
+
+Row 1: 5
+Row 2: 6
+
+Matrix A: 
+
+|   1     2  |
+
+|   3     4  |
+
+
+Matrix B: 
+
+|   5  |
+
+|   6  |
+
+ANSWER: 
+
+Resultant Matrix C: 
+
+|  17  |
+
+|  39  |
+
+
+
+Example output 2:
+
+Enter number of rows for A: 3
+Enter number of columns for A: 3
+Enter number of rows for B: 3
+Enter number of columns for B: 3
+ 
+Enter elements row by row for A, separated by spaces.
+
+Row 1: 1 0 0 
+Row 2: 0 1 0
+Row 3: 0 0 1
+
+Enter elements row by row for B, separated by spaces.
+
+Row 1: 1 2 3
+Row 2: 4 5 6
+Row 3: 7 8 9
+
+Matrix A: 
+
+|   1     0     0  |
+
+|   0     1     0  |
+
+|   0     0     1  |
+
+
+Matrix B: 
+
+|   1     2     3  |
+
+|   4     5     6  |
+
+|   7     8     9  |
+
+ANSWER: 
+
+Resultant Matrix C: 
+
+|   1     2     3  |
+
+|   4     5     6  |
+
+|   7     8     9  |
