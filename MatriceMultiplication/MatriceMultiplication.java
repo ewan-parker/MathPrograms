@@ -1,4 +1,4 @@
-package mathAutomation;
+package MatriceMultiplication;
 
 import java.util.Scanner;
 
@@ -119,3 +119,4 @@ public class MatriceMultiplication {
 	}
 
 }
+
