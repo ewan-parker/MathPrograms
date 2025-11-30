@@ -19,3 +19,6 @@ A program that performs **Gaussian-Jordan elimination** to solve a matrix.
 - [Example output](MatrixSolver/matrixSolverExampleOutput.txt)
 
 
+### Determinant Of Matrix
+A program that finds the Determinant of some matrix A.
+⚠️ Currently only handles matrix size 1,2, or 3.
