@@ -32,4 +32,6 @@ A program that finds the Determinant of some matrix A.
 ### Quadratic Formula
 A simple program that solves for x with given values a,b,c. ( ax² + bx + c = 0 )
 
+- [Source Code](QuadraticFormula/QuadraticFormula.java)
+- [Example Output](QuadraticFormula/QuadraticFormulaOutput)
 ---
