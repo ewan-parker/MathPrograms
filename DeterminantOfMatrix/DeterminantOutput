@@ -1,0 +1,34 @@
+Output 1:
+
+Enter the size of the square matrix (n, where the size is n by n): 2
+Enter elements row by row for A, separated by spaces.
+
+Row 1: 3 2
+Row 2: 5 6
+Your matrix, A:
+
+|   3.00   2.00   |
+
+|   5.00   6.00   |
+
+The Determinant of your matrix A: 8.00
+
+
+
+Output 2:
+
+Enter the size of the square matrix (n, where the size is n by n): 3
+Enter elements row by row for A, separated by spaces.
+
+Row 1: 4 6 7
+Row 2: 6 5 4
+Row 3: 11 0 1
+Your matrix, A:
+
+|   4.00   6.00   7.00   |
+
+|   6.00   5.00   4.00   |
+
+|  11.00   0.00   1.00   |
+
+The Determinant of your matrix A: -137.00
