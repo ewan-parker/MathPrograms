@@ -24,6 +24,9 @@ A program that performs **Gaussian-Jordan elimination** to solve a matrix.
 A program that finds the Determinant of some matrix A.
 ⚠️ Currently only handles matrix size 1,2, or 3.
 
+- [Source Code](DeterminantOfMatrix/DeterminantOfMatrix.java)
+- [Example Output](DeterminantOfMatrix/DeterminantOutput)
+
 ---
 
 ### Quadratic Formula
