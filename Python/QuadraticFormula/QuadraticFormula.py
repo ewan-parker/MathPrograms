@@ -11,10 +11,10 @@ c = float(input('Enter your value for c: '))
 squared_part = b*b - 4*a*c
 
 # Shows the algebra
-print()
-print(f'        {-b} + ± √ {squared_part}')
-print('x =      ——————————————————')
-print(f'             + {2*a}')
+print('                 _____')
+print(f'        {-b} + ±√{squared_part}')
+print('x =    ——————————————————')
+print(f'             {2*a}')
 print()
 
 # Check for imaginary solutions:
