@@ -12,4 +12,4 @@ A collection of math programs I made for practice
 
 ### Python Programs:
 
-- [Quadratic solver, (handles complex solutions)](Python/QuadraticFormula) 
+- [Quadratic solver](Python/QuadraticFormula) `Handles complex solutions`
