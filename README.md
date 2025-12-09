@@ -1,37 +1,15 @@
-# Math Programs
+# MathPrograms
 
-A collection of **console-based Java programs** for common mathematical operations.
+A collection of math programs I made for practice
 
----
+### Java Programs:
 
-## Programs Included:
+- [Determinant Of a Matrix](Java/DeterminantOfMatrix)
+- [Matrice Multiplication](Java/MatriceMultiplication)
+- [Matrix Solver](Java/MatrixSolver)
+- [Quadratic solver](Java/QuadraticFormula)
 
-### Matrice Multiplication
-A program to **multiply two matrices**.  
-- [Source code](MatriceMultiplication/MatriceMultiplication.java)  
-- [Example output](MatriceMultiplication/matriceMultiplicationExampleOutput.txt)
 
----
+### Python Programs:
 
-### Matrix Solver
-A program that performs **Gaussian-Jordan elimination** to solve a matrix.  
-- [Source code](MatrixSolver/MatrixSolver.java)  
-- [Example output](MatrixSolver/matrixSolverExampleOutput.txt)
-
----
-
-### Determinant Of Matrix
-A program that finds the Determinant of some matrix A.
-⚠️ Currently only handles matrix size 1,2, or 3.
-
-- [Source Code](DeterminantOfMatrix/DeterminantOfMatrix.java)
-- [Example Output](DeterminantOfMatrix/DeterminantOutput)
-
----
-
-### Quadratic Formula
-A simple program that solves for x with given values a,b,c. ( ax² + bx + c = 0 )
-
-- [Source Code](QuadraticFormula/QuadraticFormula.java)
-- [Example Output](QuadraticFormula/QuadraticFormulaOutput)
----
+- [Quadratic solver](Python/QuadraticFormula)
